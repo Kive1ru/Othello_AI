@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libothelloaistudent.a  CMakeFiles/othelloaistudent.dir/core/KylinOthelloAI.cpp.o
+/usr/bin/ranlib lib/libothelloaistudent.a

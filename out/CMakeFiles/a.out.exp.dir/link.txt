@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.exp.dir/exp/expmain.cpp.o  -o bin/a.out.exp  -Wl,-rpath,/home/ics46/projects/proj3/lib ../lib/libothellogame.so ../lib/libothelloai.so -lpthread -lc++ -Wl,--whole-archive lib/libothelloaistudent.a -Wl,--no-whole-archive -lpthread -lc++ 

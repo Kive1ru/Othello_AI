@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o  -o bin/a.out.gtest  -Wl,-rpath,/home/ics46/projects/proj3/lib ../lib/libothellogame.so ../lib/libothelloai.so -lpthread -lc++ -lgtest -lgtest_main -Wl,--whole-archive lib/libothelloaistudent.a -Wl,--no-whole-archive -lpthread -lc++ 

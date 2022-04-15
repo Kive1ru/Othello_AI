@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/othelloui/OthelloApplication.hpp
+
+/home/ics46/projects/proj3/app/main.cpp
+OthelloApplication.hpp
+/home/ics46/projects/proj3/app/OthelloApplication.hpp
+
